@@ -1,0 +1,12 @@
+run the program from the terminal as described
+
+1.during execution of the program the command line argument is passed as
+i) to take video from the camrera
+eg.
+./motionTracker cam     
+
+ii)to take the video from the given sample, place the video in the same directory
+	where the program is ... then 
+eg.
+./motionTracker your_video
+
