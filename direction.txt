@@ -1,3 +1,5 @@
+
+
 run the program from the terminal as described
 
 1.during execution of the program the command line argument is passed as
@@ -10,3 +12,6 @@ ii)to take the video from the given sample, place the video in the same director
 eg.
 ./motionTracker your_video
 
+-----------------------------------------
+for compiling the code you have to use the openCV library with minimum version
+of 3.1.0 and place the folder on the current project main directory
